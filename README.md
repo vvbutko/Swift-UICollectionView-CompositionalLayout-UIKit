@@ -1,8 +1,10 @@
 # How to create a UICollectionView List with Compositional Layout and UIDiffableDataSource in Swift
 
-A sample project showing how to create a `UICollectionView` List with `UICollectionViewCompositionalLayout` and `UIDiffableDataSource` in Swift.
+Create lists using a modern compositional layout list configuration for a UICollectionView. In addition, we'll use a diffable datasource to populate our list content. Sample project included.
 
-Accompanying article: https://www.vbutko.com/articles/how-to-create-uicollectionview-list-with-compositional-layout/
+📕 Reference Article: [How to create a UICollectionView List with Compositional Layout and UIDiffableDataSource in Swift](https://www.vbutko.com/articles/how-to-create-uicollectionview-list-with-compositional-layout/)
+📕 Blog about Swift and iOS Development www.vbutko.com
+
 
 ### Screenshots
 
